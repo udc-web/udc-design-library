@@ -1,0 +1,24 @@
+UDC DESIGN LIBRARY 上传说明
+
+这个文件夹已经是构建好的 GitHub Pages 网站，不需要安装或运行任何程序。
+
+推荐上传方式：GitHub Desktop
+
+1. 在 GitHub Desktop 中选择 Clone a repository from the Internet。
+2. 选择 udc-web/udc-design-library 并完成克隆。
+3. 打开克隆后的本地文件夹。
+4. 将本资料包中除 UPLOAD-GUIDE.txt 以外的所有内容，复制到该仓库文件夹根目录。
+5. 在 GitHub Desktop 填写提交说明：Publish responsive UDC Library
+6. 点击 Commit to main，再点击 Push origin。
+7. 进入 GitHub 仓库 Settings → Pages。
+8. Build and deployment 选择 Deploy from a branch。
+9. Branch 选择 main，文件夹选择 / (root)，然后 Save。
+
+发布后网址：
+https://udc-web.github.io/udc-design-library/
+
+网站已包含：
+- 55 条案例和全部封面
+- 搜索、大类与场景筛选
+- 手机 2 列、平板 3 列、电脑 4 列、宽屏 5 列
+- 深色 UDC Library 视觉
